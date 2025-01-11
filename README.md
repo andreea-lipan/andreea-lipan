@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andreea, 3nd year conputer-science student at UBB
+- 👋 Hi, I’m Andreea, 1st year software engineering master student at UBB
 - ✉ How to reach me: andreea.alexandra.lipan@gmail.com
 
 <!---
