@@ -13,6 +13,6 @@
 
 ###### Semester II
 - \[SQ] - [Software Quality](https://github.com/andreea-lipan/SQ)
-- \[DISS] - Disigning Interactive Software Systems
+- \[DISS] - [Disigning Interactive Software Systems](https://github.com/andreea-lipan/beyond-ball)
 - \[MSP] - [Methodologies for Software Systems](https://github.com/andreea-lipan/MSP)
 - \[FD] - Framework Development
