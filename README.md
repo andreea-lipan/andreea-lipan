@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andreea, 1st year software engineering master student at UBB
-- ✉ How to reach me: andreea.alexandra.lipan@gmail.com
+- ✉ How to reach me: andreea.lipan@proton.me
 
 <!---
 andreea-lipan/andreea-lipan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
