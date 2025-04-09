@@ -12,7 +12,7 @@
 - Ethics
 
 ###### Semester II
-- \[SQ] - Software Quality
+- \[SQ] - [Software Quality](https://github.com/andreea-lipan/SQ)
 - \[DISS] - Disigning Interactive Software Systems
 - \[MSP] - [Methodologies for Software Systems](https://github.com/andreea-lipan/MSP)
 - \[FD] - Framework Development
