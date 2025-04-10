@@ -13,7 +13,7 @@
 
 ###### Semester I
 - \[AMSAD] - Agile Methodologies for Sofware Application Development
-- \[PP] - Programming Paradigms
+- \[PP] - [Programming Paradigms](https://github.com/andreea-lipan/PP)
 - \[RE] - [Requirements Engineering](https://github.com/andreea-lipan/RE-Project)
 - \[SSE] - Sustainable Software Engineering
 - Ethics
