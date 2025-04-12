@@ -9,7 +9,7 @@
 - \[SQ] - [Software Quality](https://github.com/andreea-lipan/SQ)
 - \[DISS] - [Disigning Interactive Software Systems](https://github.com/andreea-lipan/beyond-ball)
 - \[MSP] - [Methodologies for Software Systems](https://github.com/andreea-lipan/MSP)
-- \[FD] - Framework Development
+- \[FD] - [Framework Development](https://github.com/andreea-lipan/tab-notes-firefox-extension)
 
 ###### Semester I
 - \[AMSAD] - Agile Methodologies for Sofware Application Development
